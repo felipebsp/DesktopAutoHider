@@ -1,5 +1,4 @@
 # DesktopAutoHider
-O DesktopAutoHider é um aplicativo totalmente gratuito criado para manter o wallpaper limpo, ocultando os ícones da área de trabalho, e permitindo que eles apareçam automaticamente ao mover o mouse.  Link principal do projeto: https://sites.google.com/view/desktopautohider
-Para que o aplicativo você precisa do dotnet 8.0
+DesktopAutoHider is a completely free application created to keep your wallpaper clean by hiding desktop icons and allowing them to appear automatically when you move your mouse. Main project link: https://sites.google.com/view/desktopautohider 
 
 From now on I will try not to use AI for the project
