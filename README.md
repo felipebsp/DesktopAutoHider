@@ -8,10 +8,16 @@ DesktopAutoHider is a free application created to keep your desktop clean by hid
 
 ## Features
 
--  🖥️**Hide Desktop Icons** - Keep your wallpaper clean and uncluttered
--  🖱️**Auto-Show on Mouse Movement** - Icons appear automatically when you move your mouse
--  🪶**Lightweight & Fast** - Minimal resource usage
--  ⚙️**Easy to Use** - Simple and intuitive interface
+- 🖥️ **Hide Desktop Icons** - Keep your wallpaper clean and uncluttered
+- 🖱️ **Auto-Show on Mouse Movement** - Icons appear automatically when you move your mouse
+- 💻 **Lightweight & Fast** - Minimal resource usage
+- ⚙️ **Easy to Use** - Simple and intuitive interface
+
+## Screenshots
+
+![DesktopAutoHider Screenshot 1](https://lh3.googleusercontent.com/sitesv/AA5AbUCw6DlI4aNTIrZZTK2xRUS9DfdcLx2cD7pfqd_vScZq3GR8wtvG7MIHgxCiAG6B62PtQJkLyY3jhmi1CzXdTDGnGF3Jck3BDy5LMaTLR7aZj4-Up5POvEDFXMwNslTtF94q17O1NqJxToswPzuZRx758pqFiG9rDm4UKa-i6FjFHwf_pWx75oaS-oFo9gQl3aqfHQxPWbXcTT-RMRG6JMvFm04b9AInavOaxR4PObI=w1280)
+
+![DesktopAutoHider Screenshot 2](https://lh3.googleusercontent.com/sitesv/AA5AbUCVzxBKEhEMQT1b6Yr67dk9QTxQAZKhi1jT4lbTXBqWlwP4cCb3L56D0nEH16RZQZ5CEZClYCxy2YoOql2D0uOX9G_bZkygZeh1890t76ffFWAuTAhcFu9bOmiXx-1jbhn7d9Yau1Pm4zXl4_RpWHCxw4IQMWH1x4rr5o1AY1-pewd2WtxMz9n8HIfJrnwNl6EvKSHWxXPAp84y-vH6EbRvxq7wGpZ4W5I_1kJ_EAo=w1280)
 
 ## Requirements
 
