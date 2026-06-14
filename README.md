@@ -32,9 +32,13 @@ This project is licensed under the **GNU Lesser General Public License v3 (LGPL 
 
 The app was created using ManusAI and free software tools. When possible, DesktopAutoHider will appear on bigger stores.
 
-### Development & Support
+### Development Support
 
-I'm developing this app and want to bring it to larger platforms. To do this, I need to cover some costs.
+⚠️ **Currently, development support is NOT active.** 
+
+The project is under development, but at the moment I can only accept payments via **PIX** (Brazilian payment method). International payment methods for users from the United States and other countries are not available yet.
+
+If you're interested in supporting the development when international payment options become available, please check back later or visit the [main project page](https://sites.google.com/view/desktopautohider/inglish) for updates.
 
 ---
 
