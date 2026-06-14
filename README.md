@@ -8,10 +8,10 @@ DesktopAutoHider is a free application created to keep your desktop clean by hid
 
 ## Features
 
-- 🖥️ **Hide Desktop Icons** - Keep your wallpaper clean and uncluttered
-- 🖱️ **Auto-Show on Mouse Movement** - Icons appear automatically when you move your mouse
-- 💻 **Lightweight & Fast** - Minimal resource usage
-- ⚙️ **Easy to Use** - Simple and intuitive interface
+-  🖥️**Hide Desktop Icons** - Keep your wallpaper clean and uncluttered
+-  🖱️**Auto-Show on Mouse Movement** - Icons appear automatically when you move your mouse
+-  🪶**Lightweight & Fast** - Minimal resource usage
+-  ⚙️**Easy to Use** - Simple and intuitive interface
 
 ## Requirements
 
