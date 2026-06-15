@@ -15,8 +15,6 @@ DesktopAutoHider is a free application created to keep your desktop clean by hid
 
 ## Screenshots
 
-![DesktopAutoHider Screenshot 1](https://lh3.googleusercontent.com/d/18mzSycC7hKb4qeGCcfqV34yT-ly2eW4L)
-
 ![DesktopAutoHider Screenshot 2](https://lh3.googleusercontent.com/d/1dwwVVXktduThbgtjGjVwgPixgH2ib0rX)
 
 ## Requirements
