@@ -38,7 +38,7 @@ The app was created using ManusAI and free software tools. When possible, Deskto
 
 ### Development Note
 
-⚠️ **Code Quality & Development Approach**
+**Code Quality & Development Approach**
 
 Although this project was initially created with assistance from AI (ManusAI), the code has been **manually modified and improved** to ensure quality, functionality, and optimization. From this point forward, development will avoid extensive AI usage, prioritizing **manual development** and **personalized optimizations** to maintain full control over code quality and project direction.
 
